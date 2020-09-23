@@ -1,0 +1,9 @@
+﻿  Base_Image.cpp
+  Large_Image.cpp
+  Matrix.cpp
+  Ref_Image.cpp
+  Where'sWally.cpp
+C:\Users\dariu\Desktop\Where'sWally\Where'sWally\Where'sWally.cpp(22,9): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  LINK : C:\Users\dariu\Desktop\Where'sWally\x64\Debug\Where'sWally.exe not found or not built by the last incremental link; performing full link
+  Where'sWally.vcxproj -> C:\Users\dariu\Desktop\Where'sWally\x64\Debug\Where'sWally.exe
