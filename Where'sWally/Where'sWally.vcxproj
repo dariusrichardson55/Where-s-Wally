@@ -151,10 +151,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Base_Image.h" />
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Large_Image.h" />
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Matrix.h" />
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Ref_Image.h" />
+    <ClInclude Include="Base_Image.h" />
+    <ClInclude Include="Large_Image.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="Ref_Image.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Base_Image.cpp" />
@@ -164,8 +164,8 @@
     <ClCompile Include="Where%27sWally.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\Where%27sWally\Where%27sWally\Cluttered_scene.txt" />
-    <Text Include="..\..\Where%27sWally\Where%27sWally\Wally_grey.txt" />
+    <Text Include="Cluttered_scene.txt" />
+    <Text Include="Wally_grey.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

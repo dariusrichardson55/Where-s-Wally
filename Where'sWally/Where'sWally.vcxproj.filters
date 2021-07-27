@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Ref_Image.h">
+    <ClInclude Include="Large_Image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Large_Image.h">
+    <ClInclude Include="Base_Image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Base_Image.h">
+    <ClInclude Include="Matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Where%27sWally\Where%27sWally\Matrix.h">
+    <ClInclude Include="Ref_Image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -46,10 +46,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\Where%27sWally\Where%27sWally\Cluttered_scene.txt">
+    <Text Include="Cluttered_scene.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="..\..\Where%27sWally\Where%27sWally\Wally_grey.txt">
+    <Text Include="Wally_grey.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
